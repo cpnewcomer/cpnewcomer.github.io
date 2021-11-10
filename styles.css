@@ -118,7 +118,7 @@ img {
 }
 
 .gallery-image:hover {
-    transition: scale(1.5);
+    transform: scale(1.5);
 }
 
 /* media queries below */
